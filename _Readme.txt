@@ -6,7 +6,5 @@ Please use Notepad ++ or Sublime text to view the data set.
 
 2. "test_data_*" are data and label for testing the trained Neural Net.
 
-3. "raw_data_*" are attack and normal data sets taken from the internet, and converted into 1. and 2..
-
-4. Neural Net has been trained for 87% accuracy. The trained MODEL has been saved to "MODEL_TEST".
+3. Neural Net has been trained for 87% accuracy. The trained MODEL has been saved to "MODEL_TEST".
    The saved model can be used to test the Neural Net.
